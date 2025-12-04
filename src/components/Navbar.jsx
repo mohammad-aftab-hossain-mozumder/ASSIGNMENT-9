@@ -14,7 +14,7 @@ const Navbar = () => {
             .catch(err => console.log(err))
     }
     return (
-        <div className="navbar bg-base-100 shadow-sm mb-0 pb-0">
+        <div className="navbar sticky top-0 z-50 bg-base-100 shadow-sm mb-0 pb-0">
             <div className="flex-1">
                 <a className="btn btn-ghost text-xl">SkillSwap</a>
             </div>

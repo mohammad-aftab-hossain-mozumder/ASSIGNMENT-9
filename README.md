@@ -16,9 +16,9 @@ This project maintains SPA behavior, uses protected routes, supports Google logi
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://tubular-bonbon-3202ad.netlify.app/  
+🔗 Live Website: http://skillswap-second.surge.sh  
 
-🔗 GitHub Repository: https://github.com/MD-Aftab-Hossain/ASSIGNMENT-9.git  
+🔗 GitHub Repository: https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-9.git  
 
 
 
@@ -244,7 +244,7 @@ Includes Firebase authentication, secure environment variables, smooth routing, 
 
 ```bash
 
-git clone https://github.com/MD-Aftab-Hossain/ASSIGNMENT-9.git  
+git clone https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-9.git  
 
 cd ASSIGNMENT-9  
 
